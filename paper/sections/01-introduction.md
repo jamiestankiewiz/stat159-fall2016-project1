@@ -1,8 +1,7 @@
 
 
 Makefile is a tool that complies different documents and files together to make one central document.  
-#what role it plays in reproducible workflow  
-This is useful in the role of reprpoducible workflow, because for everyone who has the correct documents, images and graphs, the Makefile just contains a list of instructions on how to compile the sources in a specific order.  
+This is useful in the role of reproducible workflow, because for everyone who has the correct documents, images and graphs, the Makefile just contains a list of instructions on how to compile the sources in a specific order.  
 
 
 ![Git-Bash logo](../images/git-logo.png)
