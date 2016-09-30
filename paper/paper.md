@@ -1,13 +1,11 @@
 In my paper, I will be discussing tools of reproducible work flow.
-Including the tools I specifically used, what they are and what they
-do.\
+Including the tools I specifically used, what they are and what they do.
 I will also be going over my experience using these systems, touching on
 the things that I found easy and things I found rather difficult.
 
 Makefile is a tool that complies different documents and files together
 to make one central document.\
-\#what role it plays in reproducible workflow\
-This is useful in the role of reprpoducible workflow, because for
+This is useful in the role of reproducible workflow, because for
 everyone who has the correct documents, images and graphs, the Makefile
 just contains a list of instructions on how to compile the sources in a
 specific order.
@@ -43,17 +41,14 @@ the easiest parts of this whole project.
 
 Learning how to use Makefile, what exactly it does and how it works was
 definitely the hardest part of this assignment, as well as coming up
-with the code for Makefile.\
-I realized that Makefile is just a txt document but without the .txt
-extension in the name.\
-It takes all of the files that you are working on and compiles it into a
-report for you.
+with the code for Makefile. I realized that Makefile is just a txt
+document but without the .txt extension in the name. It takes all of the
+files that you are working on and compiles it into a report for you.
 
 Mostly realizing that Makefile was a .txt document without the .txt
 extension. Once I realized that, it clarified things a lot,
-conceptually.\
-Also creating the code for the Makefile document made me uneasy until I
-knew the theory of what I was doing.
+conceptually. Also creating the code for the Makefile document made me
+uneasy until I knew the theory of what I was doing.
 
 Making the makefile and writing the report of all the txt documents was
 the most time consuming parts of this project.
